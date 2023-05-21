@@ -1,4 +1,4 @@
-<h1 align="center"> Crop Recommendation System</h1>
+<h1 align="center"> 🌿🌿Crop Recommendation System</h1>
 
 With the increasing popularity of precision agriculture, the integration of machine learning has become essential. This project showcases one of the numerous applications of machine learning in precision agriculture by utilizing [data](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) derived from India's Climate, Rainfall, and Fertilizer datasets, thus demonstrating its potential for the entire process.
 
@@ -15,8 +15,7 @@ The variables in the dataset are:
 * humidity (relative humidity in %)
 * rainfall (rainfall in mm)
 
-Please, view the attached jupyter notebook detailing the process: crop-recommendation-system.ipynb
-
+Please, refer to the attached jupyter notebook detailing the process: "crop-recommendation-system.ipynb". To run the model on your local machine,  download the attached jupyter notebook and the dataset, "Crop_recommendation.csv", and place them on the same directory.  
 ***
 
 ## Recomendation
