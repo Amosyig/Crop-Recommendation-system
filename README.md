@@ -1,7 +1,6 @@
 <h1 align="center"> Crop Recommendation System</h1>
 
-As precision agriculture becomes more and more the main vogue. There comes the need to apply machine learning to the whole process. 
-Using [data](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) augmented  from india's dataset on Climate, Rainfall, and Fertilizer, this project demonstrates one of the many applications of Machine Learning in precision agriculture. 
+With the increasing popularity of precision agriculture, the integration of machine learning has become essential. This project showcases one of the numerous applications of machine learning in precision agriculture by utilizing [data](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) derived from India's Climate, Rainfall, and Fertilizer datasets, thus demonstrating its potential for the entire process.
 
 ## On Model
 Trained with a dataset containing details of the profile of about 2200 agricultural farms, the Machine Learning system achieves 99% accuracy in making recommendations on the right crop to plant from 22 different crop types, such as rice, jute, kidney beans, coffee, cotton, lentil.
