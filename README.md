@@ -1,5 +1,8 @@
 <h1 align="center"> 🌿🌿Crop Recommendation System</h1>
 
+
+![download (1)](https://github.com/user-attachments/assets/8e87976c-0753-44e3-adc8-c7c68c539abf)
+
 With the increasing popularity of precision agriculture, the integration of machine learning has become essential. This project showcases one of the numerous applications of machine learning in precision agriculture by utilizing [data](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) derived from India's Climate, Rainfall, and Fertilizer datasets, thus demonstrating its potential for the entire process.
 
 ## On Model
